@@ -184,7 +184,10 @@ body.dark #moon {
     height: 100vh;
     min-width: 700px;
 }
-
+.resume{
+    text-decoration: none;
+    color: #f4f4f4;
+}
 /* featured text */
 
 .featured_text {
